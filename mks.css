@@ -5,6 +5,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   text-align: left;
+  background-color: #111;
   margin: 0px;
 }
 
@@ -438,7 +439,7 @@ font-size: 20px;
 
 .small-button1:hover {
 	color:#fff;
-	background-color:#555555;
+	background-color:#222;
 		
 }
 .small-button2{
@@ -496,12 +497,12 @@ font-size: 20px;
 }
 
 .box-semua {
-	border:3px solid #111111;
+	border:3px solid #444;
 	border-radius:7px;
-	background-color:#fff;
+	background-color:#777;
 }
 .box-ketek {
-	border:3px solid #0099bb;
+	border:3px solid #fff;
 	border-radius:7px;
 	background-color:rgba(76, 78, 78, 0.4);;
 }
